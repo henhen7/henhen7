@@ -1,6 +1,8 @@
 ### 🎈차근차근 꾸려나가는 중
 - Java
 - Python
+- C++
+- SQL
 
 <!--
 **henhen7/henhen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
