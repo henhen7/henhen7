@@ -2,7 +2,6 @@
 - Java
 - Python
 - SQL
-- C++(기초)
 
 ## 💻 Carrer
 
