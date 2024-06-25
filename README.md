@@ -1,7 +1,3 @@
-## 💻 Career
-
-
-
 ## 🎈 Blog
 - https://henhen.tistory.com/
 
