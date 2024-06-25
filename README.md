@@ -1,8 +1,3 @@
-## ✨ 
-- Java
-- Python
-- SQL
-
 ## 💻 Carrer
 
 
